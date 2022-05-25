@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+
+h3{
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+img{
+    
+    height: 550px;
+    width: 1890px;
+}
+
+#sim{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    border-color: blue;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  #ovo{
+      font-style: italic;
+  }
+
+  .qualquer{
+      text-align: center;
+      opacity: 0.3;
+  }
